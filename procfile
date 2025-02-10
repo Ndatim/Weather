@@ -1,1 +1,2 @@
-worker: node bot.js
+worker-weather: node bot.js
+worker-mp3: node mp3.js
